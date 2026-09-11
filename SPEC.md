@@ -1,12 +1,10 @@
 # TARGET: today's build
 
-Choose the idea, person, interaction, and visual direction. The agent can help phrase and save your decisions after you approve them. The provided scope and review safeguards stay in place.
-
-- **Thing:** [My one-page website or mini-app and its main interaction.]
-- **Audience:** [One specific person, and what they want to do or understand.]
-- **Requirements:** One working primary interaction; selected states and results are understandable; honor my approved standing rule in AGENTS.md.
+- **Thing:** A one-page amusement-park recommender for college students. Visitors choose a vibe, California location, and admission-cost range to receive matching park suggestions.
+- **Audience:** College students planning a fun California amusement-park outing who want options that fit their preferred atmosphere, destination, and budget.
+- **Requirements:** One working primary interaction: select vibe, California location, and cost range, then view understandable matching recommendations. Honor my approved standing rule in AGENTS.md.
 - **Guardrails:** Static browser code. No required external service, keys, accounts, runtime AI, or private data. Label fictional or sample content. Preserve the example and publishing setup. Work on a branch and wait for human review before shipping.
-- **Experience:** [My visual reference or direction and the most important layout or interaction relationship.]
-- **Test:** I can complete the main action, check one boundary or factual claim, and point to my standing rule's effect in the actual preview. After I approve and merge, the same registered Pages URL works.
+- **Experience:** A clean, energetic college-student aesthetic with playful colors, clear filters, and a dynamic roller-coaster animation traveling across the screen; respect reduced-motion preferences.
+- **Test:** I can choose all three filters and receive only matching sample recommendations, verify a budget boundary, and observe the standing rule in the preview. After I approve and merge, the same registered Pages URL works.
 
 The coastal example has a [completed TARGET](examples/coast/SPEC.md). It demonstrates the format, not a required topic.
