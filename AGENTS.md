@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Do not show a recommendation until the visitor has chosen a vibe, California location, and cost range; show at most three clearly labeled sample parks, and every displayed option must match all three selections.
 
 ## Workflow
 
